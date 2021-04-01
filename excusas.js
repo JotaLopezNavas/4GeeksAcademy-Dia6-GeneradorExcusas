@@ -1,4 +1,4 @@
-let quien = ["El perro","Mi jefe","Mi abuela","Un pájaro","Un marcinano","Freddy Kruger"];
+let quien = ["El perro","Mi jefe","Mi abuela","Un pájaro","Un marciano","Freddy Kruger"];
 let que = ["comenzó a llorar","le dió un infarto","cantaba rock a todo volumén","se emborrachó","se suicidó", "se suicidó"];
 let cuando = ["ayer", "antes de ayer", "durante la noche", "en la tarde", "luego de salir de clase","cuando estudiaba"];
 
